@@ -1,6 +1,6 @@
-# Coding Ninjas Full Stack Web Development
+# Coding BellYou's Full Stack Web Development
 
-This repository contains all the resources and materials for the Coding Ninjas Full Stack Web Development course. The course is designed for students who are new to web development and want to learn how to build dynamic, full-featured web applications. The course covers a wide range of topics in web development, including HTML, CSS, JavaScript, Node.js, Express, MongoDB, and more.
+This repository contains all the resources and materials for the Coding BellYou Full Stack Web Development course. The course is designed for students who are new to web development and want to learn how to build dynamic, full-featured web applications. The course covers a wide range of topics in web development, including HTML, CSS, JavaScript, Node.js, Express, MongoDB, and more.
 
 ## Contents
 
@@ -19,7 +19,7 @@ To get started, you'll need to have a basic understanding of web development con
 
 1. Clone the repository to your local machine
     ```
-    git clone https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development.git
+    git clone https://github.com/BellYou2717/Coding-BellYou's-Full-Stack-Web-Development.git
     ```
 2. Navigate to the appropriate module. Each module contains a set of notes and exercises that will help you learn the material.
 
